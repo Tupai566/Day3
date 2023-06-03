@@ -27,10 +27,9 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="sudipta-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b>Portfolio(Mobile version)</b></h3>
 
 </div>
 
