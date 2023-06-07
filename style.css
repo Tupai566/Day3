@@ -454,3 +454,10 @@ header {
   justify-content: center;
   margin-left: -10%;
 }
+
+.container footer hr {
+  height: 5px;
+  width: 134px;
+  border-radius: 10px;
+  background-color: #0d151e;
+}
