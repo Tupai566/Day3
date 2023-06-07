@@ -196,6 +196,12 @@ header {
   width: 300px;
 }
 
+footer ul {
+  display: flex;
+  justify-content: center;
+  margin-left: -10%;
+}
+
 .project-item ul {
   display: flex;
   padding: 0;
@@ -442,15 +448,9 @@ header {
   justify-content: center;
 }
 
-.container footer {
+footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-top: 15px;
-}
-
-.container footer ul {
-  display: flex;
-  justify-content: center;
-  margin-left: -10%;
 }
