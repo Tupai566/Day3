@@ -71,6 +71,7 @@ Mobile portfolio is my second project I created it using HTML, CSS and Figma.
 2- CSS.
 3- Liners.
 4- Figma.
+5- Formspree
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -174,6 +175,12 @@ Open index.html using live server extension.
 - Twitter: [@twitterhandle](https://twitter.com/imtupai566)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tupai-mazumder-16109a243/)
 
+👤 Katherine Cendana
+
+- GitHub: [@githubhandle](https://github.com/Kccendana)
+- Twitter: [@twitterhandle](https://twitter.com/kc_telyn)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/katherinecendana/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,7 +190,7 @@ Open index.html using live server extension.
 
 
 
--  Add Footer.
+-  Add Desktop Version.
 -  Add more styles.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -214,7 +221,7 @@ If you like this project just give me a star ⭐️.
 
 
 
-I would like to thank Microverse.
+I would like to thank Microverse & Katherine.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
