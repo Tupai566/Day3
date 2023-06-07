@@ -442,22 +442,15 @@ header {
   justify-content: center;
 }
 
-.container footer {
+footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-top: 15px;
 }
 
-.container footer ul {
+footer ul {
   display: flex;
   justify-content: center;
   margin-left: -10%;
-}
-
-.container footer hr {
-  height: 5px;
-  width: 134px;
-  border-radius: 10px;
-  background-color: #0d151e;
 }
