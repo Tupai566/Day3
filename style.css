@@ -711,7 +711,7 @@ section.project-popup span.close-popup:hover {
     align-items: start;
     justify-content: start;
     width: 120%;
-    margin: 0px 114px 130px 0;
+    margin: 0 114px 130px 0;
   }
 
   header.work-heading hr {
@@ -832,6 +832,11 @@ section.project-popup span.close-popup:hover {
     align-items: start;
   }
 
+  section.headline-section ul.social-links li {
+    display: block !important;
+    margin-top: 10px;
+  }
+
   section.aboutme-section div.skills ul li {
     text-align: left;
   }
@@ -849,11 +854,6 @@ section.project-popup span.close-popup:hover {
 
   section.headline-section ul.social-links {
     order: 0;
-  }
-
-  section.headline-section ul.social-links li {
-    display: block !important;
-    margin-top: 10px;
   }
 
   section.headline-section div.headline {
@@ -894,7 +894,6 @@ section.project-popup span.close-popup:hover {
   footer hr.last-line {
     display: none;
   }
-
 }
 
 @media only screen and (min-width: 1100px) {
@@ -905,9 +904,18 @@ section.project-popup span.close-popup:hover {
   }
 
   section.aboutme-section div.skills-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 152px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 75%;
+    margin: 0;
+    padding-left: 10%;
+  }
+
+  div.line-aboutme {
+    padding-left: 141px;
+    padding-right: 141px;
+    margin-top: 100px;
   }
 
   section.aboutme-section div.line-aboutme {
@@ -920,24 +928,23 @@ section.project-popup span.close-popup:hover {
     align-items: start;
   }
 
+  section.headline-section ul.social-links li {
+    display: block !important;
+    margin-top: 10px;
+  }
+
   section.aboutme-section div.skills ul li {
     text-align: left;
   }
 
-    footer hr.last-line {
-        display: none;
-      }
+  footer hr.last-line {
+    display: none;
+  }
 
   div.contact-heading p {
     font-size: 40px;
     width: 100%;
     margin-left: -15%;
-  }
-
-  div.line-aboutme {
-    padding-left: 141px;
-    padding-right: 141px;
-    margin-top: 100px;
   }
 
   section#contact {
@@ -1043,13 +1050,6 @@ section.project-popup span.close-popup:hover {
     background-size: 44%;
   }
 
-  section.aboutme-section div.skills-container {
-    padding-left: 141px;
-    padding-right: 141px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-
   section.aboutme-section div.aboutme-heading-content {
     width: 50%;
   }
@@ -1063,11 +1063,6 @@ section.project-popup span.close-popup:hover {
 
   section.headline-section ul.social-links {
     order: 0;
-  }
-
-  section.headline-section ul.social-links li {
-    display: block !important;
-    margin-top: 10px;
   }
 
   section.headline-section div.headline {
