@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
 
-  <h3><b>Portfolio(Mobile version)</b></h3>
+  <h3><b>Portfolio</b></h3>
 
 </div>
 
@@ -54,7 +54,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -190,7 +189,7 @@ Open index.html using live server extension.
 
 
 
--  Add Desktop Version.
+-  Add more functionality.
 -  Add more styles.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
